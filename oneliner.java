@@ -1,4 +1,5 @@
-package FOR_SCOOL;
+//! ignore the package name please 
+package FOR_SCOOL.oneliner;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.io.*;
