@@ -33,9 +33,6 @@ public class oneliner {
           4-> printing the value
         */
 
-
-
-
       }
 }
 //ꜱQᴜᴀᴅ
